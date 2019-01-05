@@ -2,6 +2,6 @@
 Barebones useful dotfiles
 
 ```sh
-cp minimal/.tmux.conf ~/.tmux.conf
-cp minimal/.bash_profile ~/.bash_profile
+cp minimalist-dotfiles/minimal/.tmux.conf ~/.tmux.conf
+cp minimalist-dotfiles/minimal/.bash_profile ~/.bash_profile
 ```
